@@ -1,0 +1,12 @@
+# Fetch a single something
+GET {{BASE_URL}}/something
+Authorization: Bearer {{TOKEN}}
+
+
+# Fetch a list of something 
+PUT {{BASE_URL}}/something
+Content-Type: application/json
+Authorization: Bearer {{TOKEN}}
+
+< {{SAMPLE_PAYLOAD}}
+
