@@ -7,7 +7,6 @@ Usage:
 > git clone git@github.com:joshuahicks/sample-rest-nvim.git <folder-name>
 > cd <folder-name>
 > rm -rf .git
-
 ```
 
 - Edit `api.http` with your endpoints
