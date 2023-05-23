@@ -6,7 +6,8 @@ Usage:
 ```
 > git clone git@github.com:joshuahicks/sample-rest-nvim.git <folder-name>
 > cd <folder-name>
-> rm -rf .git
+> rm -rf .git readme.md
+
 ```
 
 - Edit `api.http` with your endpoints
